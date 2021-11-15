@@ -20,7 +20,7 @@ favoriteNumber="69"
 #True is any value that is not False or empty
 isSmart=True
 
-#You can output to the consol by using 'print()'
+#You can output to the console by using 'print()'
 print(age)
 print(grade)
 print(name)
